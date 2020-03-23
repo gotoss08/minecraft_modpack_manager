@@ -4,7 +4,7 @@ https://media.forgecdn.net/files/2848/933/InventoryTweaks-1.64+dev.150.jar
 https://media.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar
 https://media.forgecdn.net/files/2629/23/Thaumcraft-1.12.2-6.1.BETA26.jar
 https://media.forgecdn.net/files/2835/644/industrialcraft-2-2.8.188-ex112.jar
-https://media.forgecdn.net/files/2887/4 7/buildcraft-all-7.99.24.5.jar
+https://media.forgecdn.net/files/2887/47/buildcraft-all-7.99.24.5.jar
 https://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar
 https://media.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar
 https://media.forgecdn.net/files/2744/766/gravestone-1.10.3.jar
